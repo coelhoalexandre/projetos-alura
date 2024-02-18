@@ -42,7 +42,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
   
 ## Autor
 
-My name is **Alexandre Coelho**, I'm a **Web Development student**. To learn more about me or to get in touch, you can find me on the following networks:
+Meu nome é **Alexandre Coelho** e eu estou **estudando Desenvolvimento Web**. Para saber mais sobre mim ou entrar em contato, você pode me encontrar nas seguintes redes:
 
 Frontend Mentor - [@coelhoalexandre](https://www.frontendmentor.io/profile/coelhoalexandre) | GitHub - [coelhoalexandre](https://github.com/coelhoalexandre) | LinkedIn - [-coelhoalexandre](https://www.linkedin.com/in/-coelhoalexandre/) | Email - [Alexandre Coelho](mailto:alexandrecoelhocontato@gmail.com)
 
