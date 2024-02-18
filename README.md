@@ -10,7 +10,11 @@
 
 <p align="center">Aqui estão todos os projetos que realizei na Plataforma de Apredizado Alura!</p>
 
+<hr>
+
 Para ser capaz de acessar as páginas, abra o site no GitHub Pages. <a href = "https://github.com/coelhoalexandre" target="_blank">Aqui!</a>
+
+<hr>
 
 ## FRONT-END
 
