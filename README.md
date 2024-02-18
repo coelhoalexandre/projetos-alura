@@ -16,6 +16,12 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 
 <hr>
 
+## Sumário
+
+- [Projetos Alura](#projetos-alura)
+  - [Front-end](##front-end)
+  - [Autor](##autor)
+  
 ## Front-end
 
 - **Portfolio Alura ->** [Portfolio Alura (GitHub Pages)](https://coelhoalexandre.github.io/projeto-portfolio-alura/) | [Portfolio Alura (Vercel)](https://projeto-protfolio-alura.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-portfolio-alura/blob/main/README.md)
@@ -35,7 +41,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - [Alura Play (GitHub Pages)](https://coelhoalexandre.github.io/projeto-js-aluraplay/) | [Alura Play (Vercel)](https://projeto-js-aluraplay.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-js-aluraplay/blob/main/README.md)
 - [MoniBank (GitHub Pages)](https://coelhoalexandre.github.io/projeto-alura-monibank/) | [MoniBank (Vercel)](https://projeto-alura-monibank.vercel.app/) | [README](https://projeto-alura-monibank.vercel.app/)
   
-## Author
+## Autor
 
 My name is **Alexandre Coelho**, I'm a **Web Development student**. To learn more about me or to get in touch, you can find me on the following networks:
 
