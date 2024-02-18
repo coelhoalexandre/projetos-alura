@@ -23,7 +23,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
   
 ## Front-end
 
-- **Portfolio Alura:** | [Portfolio Alura (GitHub Pages)](https://coelhoalexandre.github.io/projeto-portfolio-alura/) | [Portfolio Alura (Vercel)](https://projeto-protfolio-alura.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-portfolio-alura/blob/main/README.md)
+- **Portfólio Alura:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-portfolio-alura/) | [Vercel](https://projeto-protfolio-alura.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-portfolio-alura/blob/main/README.md)
 - [Alura Plus (GitHub Pages)](https://coelhoalexandre.github.io/projeto-alura-plus/) | [Alura Plus (Vercel)](https://projeto-alura-plus-eight-xi.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-plus/blob/main/README.md)
 - [Alura Books (GitHub Pages)](https://coelhoalexandre.github.io/projeto-alurabooks/) | [Alura Books (Vercel)](https://projeto-alurabooks-chi.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alurabooks/blob/main/README.md)
 - [Arquitetura CSS (GitHub Pages)](https://coelhoalexandre.github.io/projeto-arquitetura-css/) | [Arquitetura CSS (Vercel)](https://projeto-arquitetura-css-navy.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-arquitetura-css/blob/main/README.md)
