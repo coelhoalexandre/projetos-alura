@@ -30,9 +30,10 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - [Alura Midi (GitHub Pages)](https://coelhoalexandre.github.io/projeto-aluramidi/) | [Alura Midi (Vercel)](https://projeto-aluramidi-delta.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-aluramidi/blob/main/README.md)
 - [Alura Fokus (GitHub Pages)](https://coelhoalexandre.github.io/projeto-alura-fokus/) | [Alura Fokus (Vercel)](https://projeto-alura-fokus.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-fokus/blob/main/README.md)
 - [Alura Números Secretos (GitHub Pages)](https://coelhoalexandre.github.io/projeto-alura-numero-secreto/) | [Alura Números Secretos (Vercel)](https://projeto-alura-numero-secreto.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-numero-secreto/blob/main/README.md)
-- [Portfolio Alura (GitHub Pages)]() | [Portfolio Alura (Vercel)]() | [README]()
-- [Portfolio Alura (GitHub Pages)]() | [Portfolio Alura (Vercel)]() | [README]()
-- [Portfolio Alura (GitHub Pages)]() | [Portfolio Alura (Vercel)]() | [README]()
+- [VidFlow (GitHub Pages)](https://coelhoalexandre.github.io/projeto-alura-vidflow/) | [VidFlow (Vercel)](https://projeto-alura-vidflow.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-vidflow/blob/main/README.md)
+- [Alura Books (GitHub Pages)](https://coelhoalexandre.github.io/projeto-js-alurabooks/) | [Alura Books (Vercel)](https://projeto-js-alurabooks.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-js-alurabooks/blob/main/README.md)
+- [Alura Play (GitHub Pages)](https://coelhoalexandre.github.io/projeto-js-aluraplay/) | [Alura Play (Vercel)](https://projeto-js-aluraplay.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-js-aluraplay/blob/main/README.md)
+- [MoniBank (GitHub Pages)](https://coelhoalexandre.github.io/projeto-alura-monibank/) | [MoniBank (Vercel)](https://projeto-alura-monibank.vercel.app/) | [README](https://projeto-alura-monibank.vercel.app/)
   
 ## Author
 
