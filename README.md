@@ -18,9 +18,8 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 
 ## Sumário
 
-- [Projetos Alura](#projetos-alura)
-  - [Front-end](#front-end)
-  - [Autor](#autor)
+- [Front-end](#front-end)
+- [Autor](#autor)
   
 ## Front-end
 
