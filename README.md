@@ -12,7 +12,7 @@
 
 <hr>
 
-Para ser capaz de acessar as páginas, abra o site no GitHub Pages. <a href = "https://github.com/coelhoalexandre" target="_blank">Aqui!</a>
+Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://github.com/coelhoalexandre" target="_blank">Aqui!</a>
 
 <hr>
 
