@@ -16,14 +16,21 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 
 <hr>
 
-## FRONT-END
+## Front-end
 
-- [QR Code Component Solution](./qr-code-component-main) | [README](https://github.com/coelhoalexandre/frontendmentor/blob/main/qr-code-component-main/README.md)
-- [Product Preview Card Component Solution ](./product-preview-card-component-main) | [README](https://github.com/coelhoalexandre/frontendmentor/blob/main/product-preview-card-component-main/README.md)
-- [Interactive Rating Component Solution](./interactive-rating-component-main/public/) | [README](https://coelhoalexandre.github.io/FrontendMentor/interactive-rating-component-main/)
-- [Nft Preview Card Component Solution](./nft-preview-card-component-main/public/) | [README](https://coelhoalexandre.github.io/FrontendMentor/nft-preview-card-component-main/)
-- [Order Summary Component Solution](./order-summary-component-main/public/) | [README](https://coelhoalexandre.github.io/FrontendMentor/order-summary-component-main)
-
+- [Portfolio Alura (GitHub Pages)](https://coelhoalexandre.github.io/projeto-portfolio-alura/) | [Portfolio Alura (Vercel)](https://projeto-protfolio-alura.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-portfolio-alura/blob/main/README.md)
+- [Portfolio Alura (GitHub Pages)]() | [Portfolio Alura (Vercel)]() | [README]()
+- [Portfolio Alura (GitHub Pages)]() | [Portfolio Alura (Vercel)]() | [README]()
+- [Portfolio Alura (GitHub Pages)]() | [Portfolio Alura (Vercel)]() | [README]()
+- [Portfolio Alura (GitHub Pages)]() | [Portfolio Alura (Vercel)]() | [README]()
+- [Portfolio Alura (GitHub Pages)]() | [Portfolio Alura (Vercel)]() | [README]()
+- [Portfolio Alura (GitHub Pages)]() | [Portfolio Alura (Vercel)]() | [README]()
+- [Portfolio Alura (GitHub Pages)]() | [Portfolio Alura (Vercel)]() | [README]()
+- [Portfolio Alura (GitHub Pages)]() | [Portfolio Alura (Vercel)]() | [README]()
+- [Portfolio Alura (GitHub Pages)]() | [Portfolio Alura (Vercel)]() | [README]()
+- [Portfolio Alura (GitHub Pages)]() | [Portfolio Alura (Vercel)]() | [README]()
+- [Portfolio Alura (GitHub Pages)]() | [Portfolio Alura (Vercel)]() | [README]()
+  
 ## Author
 
 My name is **Alexandre Coelho**, I'm a **Web Development student**. To learn more about me or to get in touch, you can find me on the following networks:
