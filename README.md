@@ -44,8 +44,8 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 
 Meu nome é **Alexandre Coelho** e eu estou **estudando Desenvolvimento Web**. Para saber mais sobre mim ou entrar em contato, você pode me encontrar nas seguintes redes:
 
-Frontend Mentor - [@coelhoalexandre](https://www.frontendmentor.io/profile/coelhoalexandre) | GitHub - [coelhoalexandre](https://github.com/coelhoalexandre) | LinkedIn - [-coelhoalexandre](https://www.linkedin.com/in/-coelhoalexandre/) | Email - [Alexandre Coelho](mailto:alexandrecoelhocontato@gmail.com)
-
+GitHub - [coelhoalexandre](https://github.com/coelhoalexandre) | LinkedIn - [-coelhoalexandre](https://www.linkedin.com/in/-coelhoalexandre/) | Email - [Alexandre Coelho](mailto:alexandrecoelhocontato@gmail.com)
+Alura - [coelhoalexandre](https://cursos.alura.com.br/user/coelhoalexandre) | Frontend Mentor - [@coelhoalexandre](https://www.frontendmentor.io/profile/coelhoalexandre)
 <br>
 
 <div align="center">
