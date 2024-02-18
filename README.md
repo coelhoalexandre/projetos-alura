@@ -12,7 +12,7 @@
 
 <hr>
 
-Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://github.com/coelhoalexandre" target="_blank">Aqui!</a>
+Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoalexandre.github.io/projetos-alura/">Aqui!</a>
 
 <hr>
 
