@@ -38,10 +38,10 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **VidFlow:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-vidflow/) | [Vercel](https://projeto-alura-vidflow.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-vidflow/blob/main/README.md)
 - **Alura Books:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-js-alurabooks/) | [Vercel](https://projeto-js-alurabooks.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-js-alurabooks/blob/main/README.md)
 - **Alura Play :** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-js-aluraplay/) | [Vercel](https://projeto-js-aluraplay.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-js-aluraplay/blob/main/README.md)
-- **MoniBank:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-monibank/) | [Vercel](https://projeto-alura-monibank.vercel.app/) | [README](https://projeto-alura-monibank.vercel.app/)
-- **ByteBank:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alurajs-bytebank/) | [Vercel](https://projeto-alurajs-bytebank.vercel.app/) | [README](https://projeto-alura-monibank.vercel.app/)
-- **Lista de Compras:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-lista-de-compras/) | [Vercel](https://projeto-alura-lista-de-compras.vercel.app/) | [README](https://projeto-alura-monibank.vercel.app/)
-- **Dev&Dragons:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-devdragons/) | [Vercel](https://projeto-alura-devdragons.vercel.app/) | [README](https://projeto-alura-monibank.vercel.app/)
+- **MoniBank:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-monibank/) | [Vercel](https://projeto-alura-monibank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-monibank/blob/main/README.md)
+- **ByteBank:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alurajs-bytebank/) | [Vercel](https://projeto-alurajs-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alurajs-bytebank/blob/main/README.md)
+- **Lista de Compras:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-lista-de-compras/) | [Vercel](https://projeto-alura-lista-de-compras.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-lista-de-compras/blob/main/README.md)
+- **Dev&Dragons:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-devdragons/) | [Vercel](https://projeto-alura-devdragons.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-devdragons/blob/main/README.md)
   
 ## Autor
 
