@@ -19,10 +19,13 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 ## Sumário
 
 - [Front-end](#front-end)
+  - [HTML&CSS](#htmlcss)
+  - [JavaScript](#javascript)
 - [Autor](#autor)
   
 ## Front-end
 
+### HTML&CSS
 - **Portfólio Alura:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-portfolio-alura/) | [Vercel](https://projeto-protfolio-alura.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-portfolio-alura/blob/main/README.md)
 - **Alura Plus:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-plus/) | [Vercel](https://projeto-alura-plus-eight-xi.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-plus/blob/main/README.md)
 - **Alura Books:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alurabooks/) | [Vercel](https://projeto-alurabooks-chi.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alurabooks/blob/main/README.md)
@@ -32,6 +35,8 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Calmaria Spa:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-calmaria-spa/) | [Vercel](https://projeto-calmaria-spa.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-calmaria-spa/blob/main/README.md)
 - **Alura Newsletter:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-newsletter/) | [Vercel](https://projeto-alura-newsletter-kohl.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-newsletter/blob/main/README.md)
 - **Culturama:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-culturama/) | [Vercel](https://projeto-alura-culturama-murex.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-culturama/blob/main/README.md)
+
+### JavaScript
 - **Alura Midi:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-aluramidi/) | [Vercel](https://projeto-aluramidi-delta.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-aluramidi/blob/main/README.md)
 - **Alura Fokus:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-fokus/) | [Vercel](https://projeto-alura-fokus.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-fokus/blob/main/README.md)
 - **Alura Números Secretos:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-numero-secreto/) | [Vercel](https://projeto-alura-numero-secreto.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-numero-secreto/blob/main/README.md)
@@ -39,9 +44,9 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Alura Books:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-js-alurabooks/) | [Vercel](https://projeto-js-alurabooks.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-js-alurabooks/blob/main/README.md)
 - **Alura Play:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-js-aluraplay/) | [Vercel](https://projeto-js-aluraplay.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-js-aluraplay/blob/main/README.md)
 - **MoniBank:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-monibank/) | [Vercel](https://projeto-alura-monibank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-monibank/blob/main/README.md)
-- **ByteBank:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alurajs-bytebank/) | [Vercel](https://projeto-alurajs-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alurajs-bytebank/blob/main/README.md)
 - **Lista de Compras:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-lista-de-compras/) | [Vercel](https://projeto-alura-lista-de-compras.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-lista-de-compras/blob/main/README.md)
 - **Dev&Dragons:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-devdragons/) | [Vercel](https://projeto-alura-devdragons.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-devdragons/blob/main/README.md)
+- **ByteBank:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-bytebank/) | [Vercel](https://projeto-alura-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-bytebank/blob/main/README.md)
   
 ## Autor
 
