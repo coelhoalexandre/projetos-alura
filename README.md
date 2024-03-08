@@ -21,6 +21,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - [Front-end](#front-end)
   - [HTML&CSS](#htmlcss)
   - [JavaScript](#javascript)
+  - [React](#react)
 - [Autor](#autor)
   
 ## Front-end
