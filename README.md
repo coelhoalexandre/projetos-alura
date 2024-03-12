@@ -51,11 +51,10 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 
 ### React
 - **Organo:** | [Vercel](https://projeto-alura-organo-five.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-organo/blob/master/README.md)
-- **Organo:** | [Vercel](https://projeto-alura-organo-five.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-organo/blob/master/README.md)
-- **Organo:** | [Vercel](https://projeto-alura-organo-five.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-organo/blob/master/README.md)
-- **Organo:** | [Vercel](https://projeto-alura-organo-five.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-organo/blob/master/README.md)
-- **Organo:** | [Vercel](https://projeto-alura-organo-five.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-organo/blob/master/README.md)
-- **Organo:** | [Vercel](https://projeto-alura-organo-five.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-organo/blob/master/README.md)
+- **Ola Mundo:** | [Vercel](https://projeto-alura-ola-mundo.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ola-mundo/blob/master/README.md)
+- **Space App:** | [Vercel](https://projeto-alura-space-app-tau.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-space-app/blob/main/README.md)
+- **Meteora:** | [Vercel](https://projeto-alura-meteora.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-meteora/blob/main/README.md)
+- **Cinetag:** | [Vercel]() | [README](https://github.com/coelhoalexandre/projeto-alura-cinetag/blob/master/README.md)
   
 ## Autor
 
