@@ -18,11 +18,20 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 
 ## Sumário
 
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Front-end](#front-end)
   - [HTML&CSS](#htmlcss)
   - [JavaScript](#javascript)
+  - [React](#react)
+  - [TypeScript](#typescript)
 - [Autor](#autor)
-  
+
+## Tecnologias Utilizadas
+
+<abbr title="HTML(HyperText Markup Language)"><img align="center" alt="HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></abbr> <abbr title="CSS(Cascading Style Sheets)"><img align="center" alt="CSS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></abbr> <abbr title="JavaScript"><img align="center" alt="JS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></abbr> <abbr title="Syntactically Awesome Style Sheets"><img align="center" alt="SASS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></abbr> <abbr title="Taillwind CSS"><img align="center" alt="Tailwind" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></abbr> <abbr title="React"><img align="center" alt="React" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></abbr> <abbr title="TypeScript"><img align="center" alt="TS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" ></abbr>
+
+<br>
+
 ## Front-end
 
 ### HTML&CSS
@@ -47,7 +56,19 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Lista de Compras:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-lista-de-compras/) | [Vercel](https://projeto-alura-lista-de-compras.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-lista-de-compras/blob/main/README.md)
 - **Dev&Dragons:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-devdragons/) | [Vercel](https://projeto-alura-devdragons.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-devdragons/blob/main/README.md)
 - **ByteBank:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-bytebank/) | [Vercel](https://projeto-alura-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-bytebank/blob/main/README.md)
-  
+
+### React
+- **Organo:** | [Vercel](https://projeto-alura-organo-five.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-organo/blob/master/README.md)
+- **Ola Mundo:** | [Vercel](https://projeto-alura-ola-mundo.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ola-mundo/blob/master/README.md)
+- **Space App:** | [Vercel](https://projeto-alura-space-app-tau.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-space-app/blob/main/README.md)
+- **Meteora:** | [Vercel](https://projeto-alura-meteora.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-meteora/blob/main/README.md)
+- **Cinetag:** | [Vercel](https://projeto-alura-cinetag.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-cinetag/blob/master/README.md)
+- **Organo TS:** | [README](https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/main/README.md)
+
+### TypeScript
+- **Organo TS:** | [README](https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/main/README.md)
+
+
 ## Autor
 
 Meu nome é **Alexandre Coelho** e eu estou **estudando Desenvolvimento Web**. Para saber mais sobre mim ou entrar em contato, você pode me encontrar nas seguintes redes:
