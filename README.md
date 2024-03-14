@@ -18,13 +18,20 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 
 ## Sumário
 
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Front-end](#front-end)
   - [HTML&CSS](#htmlcss)
   - [JavaScript](#javascript)
   - [React](#react)
   - [TypeScript](#typescript)
 - [Autor](#autor)
-  
+
+## Tecnologias Utilizadas
+
+<abbr title="Hype Text Markup Language"><img align="center" alt="HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><abbr> <img align="center" alt="CSS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="JS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="SASS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> <img align="center" alt="Tailwind" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"> <img align="center" alt="React" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" alt="TS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" >
+
+<br>
+
 ## Front-end
 
 ### HTML&CSS
