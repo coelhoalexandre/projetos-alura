@@ -69,6 +69,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 
 ### TypeScript
 - **Organo TS:** | [Vercel](https://projeto-alura-ts-organo.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/main/README.md)
+- **AlubarBank:** | [Vercel](https://projeto-alurabank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alurabank/blob/main/README.md)
 
 
 ## Autor
