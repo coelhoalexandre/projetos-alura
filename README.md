@@ -63,10 +63,11 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Space App:** | [Vercel](https://projeto-alura-space-app-tau.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-space-app/blob/main/README.md)
 - **Meteora:** | [Vercel](https://projeto-alura-meteora.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-meteora/blob/main/README.md)
 - **Cinetag:** | [Vercel](https://projeto-alura-cinetag.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-cinetag/blob/master/README.md)
-- **Organo TS:** | [README](https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/main/README.md)
+- **Organo TS:** | [Vercel](https://projeto-alura-ts-organo.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/main/README.md)
+- **CodeConnect:** | [Vercel](https://projeto-alura-codeconnect.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-codeconnect/blob/main/README.md)
 
 ### TypeScript
-- **Organo TS:** | [README](https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/main/README.md)
+- **Organo TS:** | [Vercel](https://projeto-alura-ts-organo.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/main/README.md)
 
 
 ## Autor
