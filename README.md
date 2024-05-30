@@ -65,6 +65,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Cinetag:** | [Vercel](https://projeto-alura-cinetag.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-cinetag/blob/master/README.md)
 - **Organo TS:** | [Vercel](https://projeto-alura-ts-organo.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/main/README.md)
 - **CodeConnect:** | [Vercel](https://projeto-alura-codeconnect.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-codeconnect/blob/main/README.md)
+- **CodeConnect Vite:** | [Vercel](https://projeto-alura-vite-codeconnect-a.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-vite-codeconnect/blob/main/README.md)
 
 ### TypeScript
 - **Organo TS:** | [Vercel](https://projeto-alura-ts-organo.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/main/README.md)
