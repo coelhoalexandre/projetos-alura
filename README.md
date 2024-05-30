@@ -71,7 +71,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Organo TS:** | [Vercel](https://projeto-alura-ts-organo.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/main/README.md)
 - **AlubarBank:** | [Vercel](https://projeto-alurabank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alurabank/blob/main/README.md)
 - **Bytebank TS:** | [Vercel](https://projeto-alura-ts-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ts-bytebank/blob/main/README.md)
-- **Fokus TS:** | [Vercel](https://projeto-alura-ts-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ts-fokus/blob/main/README.md)
+- **Fokus TS:** | [Vercel](https://projeto-alura-ts-fokus.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ts-fokus/blob/main/README.md)
 
 
 ## Autor
