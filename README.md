@@ -67,6 +67,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **CodeConnect:** | [Vercel](https://projeto-alura-codeconnect.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-codeconnect/blob/main/README.md)
 - **CodeConnect Vite:** | [Vercel](https://projeto-alura-vite-codeconnect-a.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-vite-codeconnect/blob/main/README.md)
 - **Alura Studies:** | [Vercel](https://projeto-alura-studies-three.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-studies/blob/main/README.md)
+- **Aluroni:** | [Vercel](https://projeto-aluroni-pi.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-aluroni/blob/main/README.md)
 
 ### TypeScript
 - **Organo TS:** | [Vercel](https://projeto-alura-ts-organo.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/main/README.md)
@@ -74,6 +75,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Bytebank TS:** | [Vercel](https://projeto-alura-ts-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ts-bytebank/blob/main/README.md)
 - **Fokus TS:** | [Vercel](https://projeto-alura-ts-fokus.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ts-fokus/blob/main/README.md)
 - **Alura Studies:** | [Vercel](https://projeto-alura-studies-three.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-studies/blob/main/README.md)
+- **Aluroni:** | [Vercel](https://projeto-aluroni-pi.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-aluroni/blob/main/README.md)
 
 
 ## Autor
