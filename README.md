@@ -69,6 +69,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Alura Studies:** | [Vercel](https://projeto-alura-studies-three.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-studies/blob/main/README.md)
 - **Aluroni:** | [Vercel](https://projeto-aluroni-pi.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-aluroni/blob/main/README.md)
 - **Alfood:** | [Vercel](https://projeto-alura-alfood.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-alfood/blob/main/README.md)
+- **Alurabooks HTTP:** | [Vercel](https://projeto-http-alurabooks.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-http-alurabooks/blob/main/README.md)
 
 ### TypeScript
 - **Organo TS:** | [Vercel](https://projeto-alura-ts-organo.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/main/README.md)
@@ -78,6 +79,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Alura Studies:** | [Vercel](https://projeto-alura-studies-three.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-studies/blob/main/README.md)
 - **Aluroni:** | [Vercel](https://projeto-aluroni-pi.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-aluroni/blob/main/README.md)
 - **Alfood:** | [Vercel](https://projeto-alura-alfood.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-alfood/blob/main/README.md)
+- **Alurabooks HTTP:** | [Vercel](https://projeto-http-alurabooks.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-http-alurabooks/blob/main/README.md)
 
 
 ## Autor
