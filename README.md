@@ -24,6 +24,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
   - [JavaScript](#javascript)
   - [React](#react)
   - [TypeScript](#typescript)
+  - [Jest](#jest)
 - [Autor](#autor)
 
 ## Tecnologias Utilizadas
