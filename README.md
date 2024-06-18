@@ -74,6 +74,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Event Tracker:** | [Vercel](https://projeto-alura-event-tracker.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-event-tracker/blob/main/README.md)
 - **Sorteador de Amigo Secreto:** | [Vercel](https://projeto-alura-sas.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-sas/blob/main/README.md)
 - **ByteBank Testes:** | [Vercel](https://projeto-alura-reacttest-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-reacttest-bytebank/blob/main/README.md)
+- **ByteBank v2 Testes:** | [Vercel](https://projeto-alura-reacttest-v2-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-reacttest-v2-bytebank/blob/main/README.md)
 
 ### TypeScript
 - **Organo TS:** | [Vercel](https://projeto-alura-ts-organo.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/main/README.md)
@@ -90,6 +91,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 ### Jest 
 - **Sorteador de Amigo Secreto:** | [Vercel](https://projeto-alura-sas.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-sas/blob/main/README.md)
 - **ByteBank Testes:** | [Vercel](https://projeto-alura-reacttest-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-reacttest-bytebank/blob/main/README.md)
+- **ByteBank v2 Testes:** | [Vercel](https://projeto-alura-reacttest-v2-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-reacttest-v2-bytebank/blob/main/README.md)
 
 ## Autor
 
