@@ -25,11 +25,13 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
   - [React](#react)
   - [TypeScript](#typescript)
   - [Jest](#jest)
+  - [Cypress](#cypress)
+  - [GraphQL](#graphql)
 - [Autor](#autor)
 
 ## Tecnologias Utilizadas
 
-<abbr title="Figma"><img align="center" alt="Figma" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" ></abbr> <abbr title="HTML(HyperText Markup Language)"><img align="center" alt="HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></abbr> <abbr title="CSS(Cascading Style Sheets)"><img align="center" alt="CSS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></abbr> <abbr title="JavaScript"><img align="center" alt="JS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></abbr> <abbr title="Syntactically Awesome Style Sheets"><img align="center" alt="SASS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></abbr> <abbr title="Taillwind CSS"><img align="center" alt="Tailwind" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></abbr> <abbr title="React"><img align="center" alt="React" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></abbr> <abbr title="TypeScript"><img align="center" alt="TS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" ></abbr> <abbr title="Jest"><img align="center" alt="Jest" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" ></abbr> 
+<abbr title="Figma"><img align="center" alt="Figma" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" ></abbr> <abbr title="HTML(HyperText Markup Language)"><img align="center" alt="HTML" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></abbr> <abbr title="CSS(Cascading Style Sheets)"><img align="center" alt="CSS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></abbr> <abbr title="JavaScript"><img align="center" alt="JS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></abbr> <abbr title="Syntactically Awesome Style Sheets"><img align="center" alt="SASS" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"></abbr> <abbr title="Taillwind CSS"><img align="center" alt="Tailwind" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></abbr> <abbr title="React"><img align="center" alt="React" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></abbr> <abbr title="TypeScript"><img align="center" alt="TS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" ></abbr> <abbr title="Jest"><img align="center" alt="Jest" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" ></abbr> <abbr title="Cypress"><img align="center" alt="Cypress" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" ></abbr> <abbr title="GraphQL"><img align="center" alt="GraphQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" ></abbr> 
 
 <br>
 
@@ -94,8 +96,12 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Sorteador de Amigo Secreto:** | [Vercel](https://projeto-alura-sas.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-sas/blob/main/README.md)
 - **ByteBank Testes:** | [Vercel](https://projeto-alura-reacttest-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-reacttest-bytebank/blob/main/README.md)
 - **ByteBank v2 Testes:** | [Vercel](https://projeto-alura-reacttest-v2-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-reacttest-v2-bytebank/blob/main/README.md)
+
+### Cypress
 - **ByteBank v3 Testes:** | [Vercel](https://projeto-alura-reacttest-v3-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-reacttest-v3-bytebank/blob/main/README.md)
 - **ByteBank v4 Testes:** | [Vercel](https://projeto-alura-reacttest-v4-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-reacttest-v4-bytebank/blob/main/README.md)
+
+### GraphQL
 
 ## Autor
 
