@@ -26,7 +26,6 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
   - [TypeScript](#typescript)
   - [Jest](#jest)
   - [Cypress](#cypress)
-  - [GraphQL](#graphql)
 - [Autor](#autor)
 
 ## Tecnologias Utilizadas
@@ -81,6 +80,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **ByteBank v4 Testes:** | [Vercel](https://projeto-alura-reacttest-v4-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-reacttest-v4-bytebank/blob/main/README.md)
 - **Trato Tech:** | [Vercel](https://projeto-alura-tratotech.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-tratotech/blob/main/README.md)
 - **AluraBooks React:** | [Vercel](https://projeto-react-alurabooks.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-react-alurabooks/blob/main/README.md)
+- **AluraBooks React GraphQL:** | [Vercel](https://projeto-react-alurabooks-gql.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-react-alurabooks-gql/blob/main/README.md)
 
 ### TypeScript
 - **Organo TS:** | [Vercel](https://projeto-alura-ts-organo.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/main/README.md)
@@ -94,6 +94,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Event Tracker:** | [Vercel](https://projeto-alura-event-tracker.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-event-tracker/blob/main/README.md)
 - **Sorteador de Amigo Secreto:** | [Vercel](https://projeto-alura-sas.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-sas/blob/main/README.md)
 - **AluraBooks React:** | [Vercel](https://projeto-react-alurabooks.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-react-alurabooks/blob/main/README.md)
+- **AluraBooks React GraphQL:** | [Vercel](https://projeto-react-alurabooks-gql.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-react-alurabooks-gql/blob/main/README.md)
 
 ### Jest 
 - **Sorteador de Amigo Secreto:** | [Vercel](https://projeto-alura-sas.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-sas/blob/main/README.md)
@@ -104,8 +105,6 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 ### Cypress
 - **ByteBank v3 Testes:** | [Vercel](https://projeto-alura-reacttest-v3-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-reacttest-v3-bytebank/blob/main/README.md)
 - **ByteBank v4 Testes:** | [Vercel](https://projeto-alura-reacttest-v4-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-reacttest-v4-bytebank/blob/main/README.md)
-
-### GraphQL
 
 ## Autor
 
