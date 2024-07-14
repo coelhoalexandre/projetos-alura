@@ -80,6 +80,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **ByteBank v3 Testes:** | [Vercel](https://projeto-alura-reacttest-v3-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-reacttest-v3-bytebank/blob/main/README.md)
 - **ByteBank v4 Testes:** | [Vercel](https://projeto-alura-reacttest-v4-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-reacttest-v4-bytebank/blob/main/README.md)
 - **Trato Tech:** | [Vercel](https://projeto-alura-tratotech.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-tratotech/blob/main/README.md)
+- **AluraBooks React:** | [Vercel](https://projeto-react-alurabooks.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-react-alurabooks/blob/main/README.md)
 
 ### TypeScript
 - **Organo TS:** | [Vercel](https://projeto-alura-ts-organo.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/main/README.md)
@@ -92,6 +93,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Alurabooks HTTP:** | [Vercel](https://projeto-http-alurabooks.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-http-alurabooks/blob/main/README.md)
 - **Event Tracker:** | [Vercel](https://projeto-alura-event-tracker.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-event-tracker/blob/main/README.md)
 - **Sorteador de Amigo Secreto:** | [Vercel](https://projeto-alura-sas.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-sas/blob/main/README.md)
+- **AluraBooks React:** | [Vercel](https://projeto-react-alurabooks.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-react-alurabooks/blob/main/README.md)
 
 ### Jest 
 - **Sorteador de Amigo Secreto:** | [Vercel](https://projeto-alura-sas.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-sas/blob/main/README.md)
