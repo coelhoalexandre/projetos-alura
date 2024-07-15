@@ -106,6 +106,9 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **ByteBank v3 Testes:** | [Vercel](https://projeto-alura-reacttest-v3-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-reacttest-v3-bytebank/blob/main/README.md)
 - **ByteBank v4 Testes:** | [Vercel](https://projeto-alura-reacttest-v4-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-reacttest-v4-bytebank/blob/main/README.md)
 
+### Next 
+- **Alura Cases:** | [Vercel](https://projeto-alura-cases.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-cases/blob/main/README.md)
+
 ## Autor
 
 Meu nome é **Alexandre Coelho** e eu estou **estudando Desenvolvimento Web**. Para saber mais sobre mim ou entrar em contato, você pode me encontrar nas seguintes redes:
