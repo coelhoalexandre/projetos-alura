@@ -58,6 +58,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Lista de Compras:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-lista-de-compras/) | [Vercel](https://projeto-alura-lista-de-compras.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-lista-de-compras/blob/main/README.md)
 - **Dev&Dragons:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-devdragons/) | [Vercel](https://projeto-alura-devdragons.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-devdragons/blob/main/README.md)
 - **ByteBank:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-bytebank/) | [Vercel](https://projeto-alura-bytebank.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-bytebank/blob/main/README.md)
+- **Meteora:** | [Vercel](https://projeto-alura-next-meteora.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-next-meteora/blob/main/README.md)
 
 ### React
 - **Organo:** | [Vercel](https://projeto-alura-organo-five.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-organo/blob/master/README.md)
@@ -95,6 +96,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Sorteador de Amigo Secreto:** | [Vercel](https://projeto-alura-sas.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-sas/blob/main/README.md)
 - **AluraBooks React:** | [Vercel](https://projeto-react-alurabooks.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-react-alurabooks/blob/main/README.md)
 - **AluraBooks React GraphQL:** | [Vercel](https://projeto-react-alurabooks-gql.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-react-alurabooks-gql/blob/main/README.md)
+- **Code Connect:** | [Vercel](https://projeto-alura-next-code-connect.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-next-code-connect/blob/main/README.md)
 
 ### Jest 
 - **Sorteador de Amigo Secreto:** | [Vercel](https://projeto-alura-sas.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-sas/blob/main/README.md)
@@ -108,6 +110,8 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 
 ### Next 
 - **Alura Cases:** | [Vercel](https://projeto-alura-cases.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-cases/blob/main/README.md)
+- **Code Connect:** | [Vercel](https://projeto-alura-next-code-connect.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-next-code-connect/blob/main/README.md)
+- **Meteora:** | [Vercel](https://projeto-alura-next-meteora.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-next-meteora/blob/main/README.md)
 
 ## Autor
 
