@@ -47,6 +47,9 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Alura Newsletter:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-newsletter/) | [Vercel](https://projeto-alura-newsletter-kohl.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-newsletter/blob/main/README.md)
 - **Culturama:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-culturama/) | [Vercel](https://projeto-alura-culturama-murex.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-culturama/blob/main/README.md)
 
+### TailwindCSS
+- **Alura Newsletter:** | [Vercel](https://projeto-tailwind-newsletter-ten.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-tailwind-newsletter/blob/main/README.md)
+
 ### JavaScript
 - **Alura Midi:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-aluramidi/) | [Vercel](https://projeto-aluramidi-delta.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-aluramidi/blob/main/README.md)
 - **Alura Fokus:** | [GitHub Pages](https://coelhoalexandre.github.io/projeto-alura-fokus/) | [Vercel](https://projeto-alura-fokus.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-fokus/blob/main/README.md)
@@ -82,6 +85,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Trato Tech:** | [Vercel](https://projeto-alura-tratotech.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-tratotech/blob/main/README.md)
 - **AluraBooks React:** | [Vercel](https://projeto-react-alurabooks.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-react-alurabooks/blob/main/README.md)
 - **AluraBooks React GraphQL:** | [Vercel](https://projeto-react-alurabooks-gql.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-react-alurabooks-gql/blob/main/README.md)
+- **Alura Newsletter:** | [Vercel](https://projeto-tailwind-newsletter-ten.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-tailwind-newsletter/blob/main/README.md)
 
 ### TypeScript
 - **Organo TS:** | [Vercel](https://projeto-alura-ts-organo.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-ts-organo/blob/main/README.md)
