@@ -116,6 +116,7 @@ Você também pode acessar o ReadMe no GitHub Pages. <a href = "https://coelhoal
 - **Alura Cases:** | [Vercel](https://projeto-alura-cases.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-cases/blob/main/README.md)
 - **Code Connect:** | [Vercel](https://projeto-alura-next-code-connect.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-next-code-connect/blob/main/README.md)
 - **Meteora:** | [Vercel](https://projeto-alura-next-meteora.vercel.app/) | [README](https://github.com/coelhoalexandre/projeto-alura-next-meteora/blob/main/README.md)
+- **Alfabit Design System:** | [GitHub](https://coelhoalexandre.github.io/projeto-alfabit-design-system/storybook-static) | [README](https://github.com/coelhoalexandre/projeto-alfabit-design-system/blob/main/README.md)
 
 ## Autor
 
