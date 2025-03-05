@@ -16,14 +16,21 @@ export default function ProjectSection({ searchParams }: ProjectSectionProps) {
       <SectionTitle>Projetos</SectionTitle>
 
       <div className='flex flex-col justify-center gap-4 px-5 w-screen max-w-[1400px]'>
-        <Search />
-        <Filter />
+        <Suspense>
+          <Search />
+        </Suspense>
+
+        <Suspense>
+          <Filter />
+        </Suspense>
 
         <Suspense fallback={'...carregando'}>
           <ProjectCardList searchParams={searchParams} />
         </Suspense>
 
-        <Pagination />
+        <Suspense>
+          <Pagination />
+        </Suspense>
       </div>
     </section>
   );
