@@ -1,10 +1,21 @@
-import Image from 'next/image';
+import ProjectSection from '@/components/ProjectSection';
+import SearchParams from '@/interfaces/SearchParams';
 
-export default async function Home() {
-  const response = await fetch(
-    'https://api.github.com/users/coelhoalexandre/repos'
+interface HomeProps {
+  searchParams: Promise<SearchParams>;
+}
+
+export default function Home({ searchParams }: HomeProps) {
+  return (
+    <main>
+      {/* <About>
+        <p>
+          Esse projeto foi feito por mim, <Strong>Alexandre Coelho</Strong>, com
+          objetivo de organizar referencias de todos (ou quase) os{' '}
+          <Strong>Projetos Alura</Strong> que realizei ao longo do tempo.
+        </p>
+      </About> */}
+      <ProjectSection searchParams={searchParams} />
+    </main>
   );
-  const data = await response.json();
-  console.log(data);
-  return <main></main>;
 }
